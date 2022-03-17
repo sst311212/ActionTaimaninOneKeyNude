@@ -6,6 +6,8 @@ Asagi Astroth Asuka Emily\
 Ingrid Jinglei Kirara Kurenai\
 Murasaki Noah Oboro Rinko\
 Sakura Shiranui Yukikaze
+#### Full Nude
+Asagi Sakura Yukikaze
 
 ## Usage
 1. Setup adb enviroment path
