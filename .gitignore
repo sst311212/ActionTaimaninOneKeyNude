@@ -1,0 +1,5 @@
+filelist.txt
+*.obb
+*.obb.bak
+model_char
+*.bak*
