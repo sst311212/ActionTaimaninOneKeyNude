@@ -2,13 +2,13 @@
 Action Taimanin one key nude for android device
 
 ### Orig Nude Model
-Astroth Asuka Felicia Ingrid\
-Kirara Noah Shizuru Tokiko
+Astroth Felicia Ingrid Kirara\
+Noah Shizuru Tokiko
 
 ### Full Nude Model
-Asagi Emily Jinglei Kurenai\
-Murasaki Oboro Rinko Sakura\
-Shiranui Yukikaze
+Asagi Asuka Emily Jinglei\
+Kurenai Murasaki Oboro Rinko\
+Sakura Shiranui Yukikaze
 
 ## Usage
 1. Setup adb enviroment path
