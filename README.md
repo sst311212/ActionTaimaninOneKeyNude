@@ -8,7 +8,10 @@ Shizuru Tokiko
 ### Full Nude Model
 Asagi Asuka Emily Jinglei\
 Kirara Kurenai Murasaki Oboro\
-Rinko Sakura Shiranui Yukikaze
+Sakura Shiranui Yukikaze
+
+### Damaged Model
+Rinko
 
 ## Usage
 1. Setup adb enviroment path
