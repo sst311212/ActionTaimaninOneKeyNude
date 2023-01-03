@@ -2,8 +2,8 @@
 Action Taimanin one key nude for android device
 
 ### Orig Nude Model
-Astroth Felicia Ingrid Noah\
-Shizuru Tokiko
+Astroth Felicia Ingrid Maika\
+Noah Shizuru Tokiko
 
 ### Full Nude Model
 Asagi Asuka Emily Jinglei\
