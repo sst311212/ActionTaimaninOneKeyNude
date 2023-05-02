@@ -6,12 +6,12 @@ Astroth Felicia Ingrid Maika\
 Noah Shizuru Tokiko
 
 ### Full Nude Model
-Asagi Asuka Emily Jinglei\
-Kirara Kurenai Murasaki Oboro\
-Sakura Shiranui Yukikaze
+Asagi Asuka Emily Kirara\
+Kurenai Murasaki Oboro Sakura\
+Shiranui Yukikaze
 
 ### Damaged Model
-Rinko
+Jinglei Rinko
 
 ## Usage
 1. Setup adb enviroment path

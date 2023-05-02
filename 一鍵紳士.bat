@@ -13,6 +13,7 @@ if exist %OBBNAME%.bak (
   copy %OBBNAME% %OBBNAME%.bak
 )
 ObbAssit.exe extract Assets/LocalBundle/aos/model_char model_char %OBBNAME%
+if not exist model_char goto :EOF
 Mod_AI3.exe
 ObbAssit.exe update Assets/LocalBundle/aos/model_char model_char %OBBNAME%
 adb push %OBBNAME% %OBBPATH%
