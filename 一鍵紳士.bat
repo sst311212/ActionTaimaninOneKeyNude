@@ -17,5 +17,7 @@ if not exist model_char goto :EOF
 Mod_AI3.exe
 ObbAssit.exe update Assets/LocalBundle/aos/model_char model_char %OBBNAME%
 adb push %OBBNAME% %OBBPATH%
+adb shell "am force-stop com.GREMORYGames.ActionTaimanin"
+timeout 1
 adb shell "am start -n com.GREMORYGames.ActionTaimanin/com.unity3d.player.UnityPlayerActivity"
 timeout 3
