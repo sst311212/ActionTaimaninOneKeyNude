@@ -1,7 +1,7 @@
 @echo off
 pushd "%~dp0"
 set OBBPATH=/sdcard/Android/obb/com.GREMORYGames.ActionTaimanin
-adb shell "ls -1 %OBBPATH%/patch* > /data/local/tmp/filelist.txt"
+adb shell "ls -1 %OBBPATH%/main* > /data/local/tmp/filelist.txt"
 adb pull "/data/local/tmp/filelist.txt"
 for /f %%1 in (filelist.txt) do set OBBNAME=%%~nx1
 if exist %OBBNAME%.bak (
