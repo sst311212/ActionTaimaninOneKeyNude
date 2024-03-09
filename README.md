@@ -7,12 +7,11 @@ Tokiko
 
 ### Full Nude Model
 Asagi Asuka Kirara Kurenai\
-Murasaki Oboro Sakura Shiranui\
-Yukikaze
+Murasaki Sakura Shiranui Yukikaze
 
 ### Damaged Model
 Astroth Emily Ingrid Jinglei\
-Rinko
+Oboro Rinko
 
 ## Usage
 1. Setup adb enviroment path
